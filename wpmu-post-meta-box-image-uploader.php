@@ -1,7 +1,7 @@
 <?php
 /**
   * Plugin Name: WPMU Post Meta Box Image Uploader
-  * Description: Adds a Meta Box for Drag and Drop Media Upload to the edit post screens. It does not attach the image, but is handy for quick image uploads.
+  * Description: Adds a Meta Box for Drag and Drop Media Upload to the edit post screens. It does not attach the image, but is handy for quick image uploads. Supports the following post_types: 'post', 'video', 'image', 'page'.
   * Version:  1.0
   * Author: Jason Jersey
   */
